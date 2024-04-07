@@ -1,1 +1,2 @@
-"# FontBeautifier simple webpage\nDemo: http://ehsanmasoudi.ir/projects/Font" 
+# FontBeautifier simple webpage
+Demo: http://ehsanmasoudi.ir/projects/Font
